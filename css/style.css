@@ -1,6 +1,6 @@
-body {font-family: Montserrat; font-size: 16px; padding: 10px 0px 40px 0px; color: #333;}
+body {font-family: Montserrat; font-size: 13px; padding: 10px 0px 40px 0px; color: #333;}
 
-h1 {font-size: 50px; margin-bottom: 20px;}
+h1 {font-size: 48px; margin-bottom: 20px;}
 .highlighted {color: #9E1B34; opacity: 1; transition: opacity .25s ease-in-out;}
 .highlighted:hover {opacity: 0.5;}
 a {text-decoration: none; color: #333;}
@@ -24,17 +24,17 @@ ul.nav a:hover {font-weight: 900;}
 
 table {border-spacing: 0px; min-width: 900px; margin: 0 auto;}
 th {padding: 10px}
-td, text {padding: 5px 10px; font-size: 13px; font-weight: lighter; line-height: 18px;}
+td, text {padding: 5px 10px; font-size: 12px; font-weight: lighter; line-height: 18px;}
 td.article a:visited {color: #777;}
 td.date {min-width: 119px;}
 tr {text-align: left; vertical-align: top; padding: 4px 0px;}
 tr:nth-child(2n+2) {background: #eee;}
 .tHeader {cursor: pointer;}
-.tHeader::after {content: " \2193 \2191 "; font-size: 12px; padding-left: 3px;}
+.tHeader::after {content: " \2193 \2191 "; font-size: 0px; padding-left: 3px;}
 
 input {margin: 12px 0px; border: none; border-bottom: 1px solid #333; background-color: transparent; padding: 0px; color: #acacac; font-size: 14px; height: 22px; font-family: Montserrat;}
 
-.sml-button {border-radius: 1px; cursor: pointer; margin-left: 4px; padding: 4px 6px; background-color: #9E1B34; font-size: 13px; text-transform: uppercase; letter-spacing: .1em; text-align: center; color: #fff; font-family: Montserrat;}
+.sml-button {border-radius: 1px; cursor: pointer; margin-left: 4px; padding: 4px 6px; background-color: #9E1B34; font-size: 11px; text-transform: uppercase; letter-spacing: .1em; text-align: center; color: #fff; font-family: Montserrat;}
 .sml-button:hover {background: #eee;}
 .button-pressed {background: #9E1B34;}
 
