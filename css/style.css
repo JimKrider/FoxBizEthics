@@ -14,7 +14,7 @@ p a {color: #9E1B34;}
 #wrapper {margin: 0px auto; max-width: 900px; padding-top: 40px; }
 
 ul.nav {list-style: none; margin: 0px; padding: 0px; color: #9E1B34;}
-ul.nav li {display: inline; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; padding-right: 4px;}
+ul.nav li {display: inline; font-size: 14px; letter-spacing: .1em; text-transform: uppercase; padding-right: 4px;}
 ul.nav a {color: #9E1B34; border-bottom: 1px dotted #9E1B34;}
 ul.nav a.dim {color: #acacac; border-bottom: 1px dotted #acacac;}
 ul.nav a:hover {font-weight: 900;}
