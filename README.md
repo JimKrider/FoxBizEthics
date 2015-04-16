@@ -1,6 +1,6 @@
 # Hi!
 
-![screenshot](https://raw.github.com/jlord/sheetsee-pocket/gh-pages/ss-pocket-ss.png)
+![screenshot](https://github.com/JimKrider/FoxBizEthics/blob/gh-pages/flat-browser.png)
 
 A website for your Pocket article archive. Fork-n-Go set up.
 
