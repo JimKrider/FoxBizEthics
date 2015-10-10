@@ -25,7 +25,7 @@ a:hover {
     padding-bottom: 1px;
     border-bottom: 1px dotted #333;
 }
-p a {
+pa {
     color: #9E1B34;
 }
 .light-type {
@@ -86,8 +86,7 @@ table {
 th {
     padding: 2px
 }
-td,
-text {
+td,text {
     padding: 10px 3px;
     font-size: 13px;
     font-weight: lighter;
