@@ -96,7 +96,7 @@ td.article a:visited {
     color: #777;
 }
 td.date {
-    min-width: 100%;
+    min-width: 119px;
 }
 tr {
     text-align: left;
