@@ -35,7 +35,9 @@
 <body>
 	<div id="wrapper">
 		
-		
+		<div class="navbar-header">
+			<a href="/"><img id="home" src="glyphicons-21-home.png"  ></a> 
+		</div>
 		<div id="title"></div>
 		<ul class="nav">
 			  
@@ -64,7 +66,7 @@
 	</div><!-- end wrapper -->
 
 	<script id="title" type="text/html">
-		<h1><span class="highlighted">{{numArticles}}</span> Articles for Business Ethics</h1>
+		<h1><span class="highlighted">{{numArticles}}</span> Articles for Business Ethics - Fall 2015</h1>
 	</script>
 
 	<script id="tags" type="text/html">
@@ -72,7 +74,7 @@
 		<span href="#" class="tag sml-button">{{.}}</span>
 		{{/rows}}
 	</script>
-
+	
 	<script id="articleTable" type="text/html">
 		<table>
 			<tr><th class="fancy">&#8470;</th><th class="date">Date</th><th class="">Article</th><th>Tags</th></tr>
@@ -85,7 +87,7 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      var URL = "1XogbBV_ygBfmR3GWzkO2v0CsLDGoVEtrgmtE7iPZ82g"
+      var URL = "102sYWj3z9jwb6z13kceIheHzgzYpaogDedcJeUs8AMY"
       Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
     }) 
       
